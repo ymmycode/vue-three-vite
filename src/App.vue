@@ -1,12 +1,12 @@
 <template>
   <div>
-    <AuditoriumThree></AuditoriumThree>
+    <ThreeScene></ThreeScene>
   </div>
 </template>
 
 <script setup>
 
-import AuditoriumThree from './components/AuditoriumThree.vue';
+import ThreeScene from './components/ThreeScene.vue';
 
 </script>
 
